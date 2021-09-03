@@ -12,4 +12,6 @@
 - `zeta-`：《读懂黎曼猜想》临界线系列（共2篇，正在更新）。首篇文章于2021年5月20日发表。
 - `sieves`：《筛法》系列（共5篇，正在更新）。首篇文章于2021年6月29日发表。
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
 [1]: https://www.zhihu.com/people/travorlzh/posts
