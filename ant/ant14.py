@@ -2,7 +2,7 @@ from manimlib.imports import *
 
 class FooScene(Scene):
     def construct(self):
-        tit=TextMobject(r"Analytic Number Theory \#13")
+        tit=TextMobject(r"Analytic Number Theory \#14")
         tit2=TextMobject(r"\textbf{Theorem (Schnirelman-Goldbach):}",
                 tex_to_color_map={
                     "Schnirelman":GREEN,
