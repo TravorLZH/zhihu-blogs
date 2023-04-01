@@ -10,7 +10,10 @@
 - `zeta`：《读懂黎曼猜想》系列（共11篇，2020年6月29日-2021年9月27日【已完结】）。
 - `zetax`：《读懂黎曼猜想》支线系列（共11篇，正在更新）。首篇文章于2020年10月14日发表。
 - `zeta-`：《读懂黎曼猜想》临界线系列（共2篇，正在更新）。首篇文章于2021年5月20日发表。
-- `sieves`：《筛法》系列（共7篇，正在更新）。首篇文章于2021年6月29日发表。
+- `sieves`：《筛法》系列（共9+1篇，2021年6月29日-2022年1月6日【已完结】）。
+- `goldbach`：《哥德巴赫猜想》系列（共11篇，2021年12月31日-2022年6月13日【已完结】）。
+- `gap`：《素数间距问题》系列（共3+7篇，2022年6月23日-2022年12月17日【已完结】）。
+- `modular`：《椭圆模函数》系列（共7篇，正在更新）。首篇文章于2023年1月25日发表。
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
